@@ -1,12 +1,8 @@
 Happy Birthday
 
-A Happy Birthday animation design in CSS3, HTML5.
+A Happy Birthday Animation for you
 
 URL: https://kaushal-sharma.github.io/happybirthday/
 
-Technology Used: HTML5 CSS3 jQuery  GNU/Linux Di Ocean as VPS GIMP
+# Happy Birthday to you Kaushal Sharma
 
-# Setup
-
-## Happy Birthday to you Kaushal Sharma
-``
